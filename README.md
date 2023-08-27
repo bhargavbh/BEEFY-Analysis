@@ -1,2 +1,2 @@
 # BEEFY-Analysis
-scripts for supporting BEEFY analysis
+ipynb for supporting BEEFY analysis
